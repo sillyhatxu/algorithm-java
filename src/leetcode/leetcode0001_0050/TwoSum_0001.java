@@ -1,0 +1,1 @@
+package leetcode.leetcode0001_0050;public class TwoSum_0001 {}
